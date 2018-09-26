@@ -1,12 +1,12 @@
 {
     "name": "mbit",
     "version": "1.2.0",
-    "description": "Extension for YahBoom m:bit",
+    "description": "Extension for DaguRobot microbitCar",
     "license": "MIT",
     "dependencies": {
         "core": "*",
         "neopixel": "github:microsoft/pxt-neopixel#v0.3.10",
-        "Mbit_IR":  "github:lzty634158/yahboom_mbit_IR"
+        "Mbit_IR":  "github:lawmio/microbitCar"
 	
 
     },
